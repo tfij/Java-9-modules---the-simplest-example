@@ -2,7 +2,8 @@ Java 9 modules - the simplest example
 ======
 
 It's the simplest example of using java modules.
-The repo contains two modules `pl.tfij.java9modules.app` and `pl.tfij.java9modules.greetings`.
+The repo was created for the purpose of the article [Quick introduction to Java 9 modularization](http://chi.pl/2017/03/11/Quick-Introduction-to-Java9-Modularization.html)
+and contains two modules `pl.tfij.java9modules.app` and `pl.tfij.java9modules.greetings`.
 The first one has a dependency to the second one.
 Each module contains only one class with a one single-line method.
 
